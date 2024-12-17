@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>la Banana de dinamite</h1>
+<p>Era uma vez, uma banana dinamite.</p>
+
+</body>
+</html>
